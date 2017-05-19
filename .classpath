@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="emilyo_AbstractFactory"/>
+	<classpathentry kind="src" path="emilyo_Adapter"/>
+	<classpathentry kind="src" path="emilyo_Facade"/>
+	<classpathentry kind="src" path="emilyo_FactoryMethod"/>
+	<classpathentry kind="src" path="emilyo_Strategy"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
